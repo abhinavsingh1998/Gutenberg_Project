@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Regular Style -->
+
+    <style name="MontserratRegularTextBlack_12">
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#333333</item>
+    </style>
+
+    <style name="MontserratRegularTextBlack_16">
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#333333</item>
+    </style>
+
+    <style name="MontserratRegularTextBlack_20">
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#333333</item>
+    </style>
+
+
+    <!-- SemiBold Style -->
+    <style name="MontserratSemiBoldBlue_48">
+        <item name="android:fontFamily">@font/montserrat_semibold</item>
+        <item name="android:textSize">48sp</item>
+        <item name="android:textColor">#5E56E7</item>
+    </style>
+
+    <style name="MontserratSemiBoldBlue_30">
+        <item name="android:fontFamily">@font/montserrat_semibold</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#5E56E7</item>
+    </style>
+
+    <style name="MontserratSemiBoldBlack_20">
+        <item name="android:fontFamily">@font/montserrat_semibold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#333333</item>
+    </style>
+
+    <style name="MontserratSemiBoldBlack_12">
+    <item name="android:fontFamily">@font/montserrat_semibold</item>
+    <item name="android:textSize">12sp</item>
+    <item name="android:textColor">#333333</item>
+</style>
+
+
+    <style name="MontserratSemiBoldTextBlack_16">
+        <item name="android:fontFamily">@font/montserrat_semibold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#333333</item>
+    </style>
+
+    <!-- Bold Style -->
+    <style name="MontserratBoldText">
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <!-- Italic Style -->
+    <style name="MontserratItalicText">
+        <item name="android:fontFamily">@font/montserrat_italic</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#444444</item>
+    </style>
+
+</resources>
